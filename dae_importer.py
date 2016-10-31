@@ -1,3 +1,6 @@
+"""Author: Thomas Graichen"""
+"""www.tgraichen.de"""
+
 import bpy
 
 
