@@ -1,4 +1,3 @@
-"""Use Magnitude to scale mesh instead of drawing to second vertex color cahnnel"""
 """Author: Thomas Graichen"""
 """www.tgraichen.de"""
 
